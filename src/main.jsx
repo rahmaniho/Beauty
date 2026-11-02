@@ -5,8 +5,7 @@ import '@fontsource/vazirmatn/400.css';
 import '@fontsource/vazirmatn/500.css';
 import '@fontsource/vazirmatn/600.css';
 import '@fontsource/vazirmatn/700.css';
-import '@fontsource/lalezar/400.css';
-import '@fontsource/badeen-display/400.css';
+import '@fontsource-variable/estedad';
 import './style.css';
 
 const asset = (path) => `${import.meta.env.BASE_URL}${path}`;
